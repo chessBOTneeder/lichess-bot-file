@@ -1,2 +1,2 @@
-lichess-bot Lc0.toml
+./lichess-bot Lc0.toml
 pause
